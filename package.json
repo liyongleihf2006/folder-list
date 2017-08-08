@@ -1,0 +1,27 @@
+{
+  "name": "folder-list",
+  "version": "1.0.0",
+  "description": "Gets all folders for pattern matching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/liyongleihf2006/folder-list#readme",
+  "keywords": [
+    "folder-list",
+    "getFolders",
+    "folders",
+    "folder",
+    "globby",
+    "glob"
+  ],
+  "author": "liyongleihf2006",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyongleihf2006/folder-list.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "globby": "^6.1.0"
+  }
+}

@@ -23,7 +23,7 @@ user [globby](https://www.npmjs.com/package/globby)'s grammar to gets all folder
     const fl = require('folder-list');  
     var folders=fl(['src/**', '!**/.*']);  
     console.log(folders);  
-    //[ 'src', 'src/folder1','src/folder1/folder11','src/folder1/folder12', 'src/folder2','src/folder3' ]```
+    //[ 'src', 'src/folder1','src/folder1/folder11','src/folder1/folder12', 'src/folder2','src/folder3' ]
 
 **API**
 

@@ -1,6 +1,6 @@
 {
   "name": "folder-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gets all folders for pattern matching",
   "main": "index.js",
   "scripts": {
